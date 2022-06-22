@@ -1,0 +1,5 @@
+1) Shorthand properties
+
+2) CSS Specificity
+
+3) .map() method
