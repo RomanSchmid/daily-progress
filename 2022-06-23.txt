@@ -1,0 +1,8 @@
+1) Immutability vs mutability
+https://twitter.com/ATechAjay/status/1539844560825643014?s=20&t=XYZP4WanLTRIHsMWkF7W6w
+
+2) VS Code custom snippets
+https://twitter.com/ATechAjay/status/1539936450812121088?s=20&t=XYZP4WanLTRIHsMWkF7W6w
+
+3) CSS relative length units - rem vs em
+https://www.w3schools.com/cssref/css_units.asp
