@@ -1,0 +1,20 @@
+1)  HTML    "<table>"
+            https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+2)  JS      Rest Pattern
+            https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+
+3)  CSS     "!important"
+            https://developer.mozilla.org/en-US/docs/Web/CSS/important
+
+4)  CSS     "border-collapse" property
+            - sets whether cells inside a <table> have shared or separate borders
+            https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse
+
+4)  CSS     ":nth-of-type()" pseudo-class
+            - matches elements based on their position among siblings of the same type (tag name)
+            https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type
+
+5)  CSS     "last-of-type" pseudo-class 
+            - represents the last element of its type among a group of sibling elements
+            https://developer.mozilla.org/en-US/docs/Web/CSS/:last-of-type
