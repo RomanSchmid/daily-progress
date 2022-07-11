@@ -1,0 +1,27 @@
+1)      Immutability vs mutability
+	        https://twitter.com/ATechAjay/status/1539844560825643014?s=20&t=XYZP4WanLTRIHsMWkF7W6w	
+
+2)	Rest Pattern
+                https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+
+3)	JS Arguments Object
+                https://twitter.com/ATechAjay/status/1541974032223940608?s=20&t=vlQhEY4T3nMTc-_CDJyhlQ
+
+4)	Array and Object destructuring
+	        https://twitter.com/deetwts/status/1542388677686329344?s=20&t=2ID8tRHiTBRUl6teG4WSZg
+
+5)	slice() vs substring()
+
+6)	Spread operator | ...array or ...string
+                https://twitter.com/sumitsaurabh927/status/1543791826137645056?s=20&t=mHd7IOvALr-HUeSsW5sLkg
+                https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+
+7)	Logical operators
+	        "||" (OR) | "&&" (AND) | "!" (NOT) | "??" (Nullish Coalescing)
+	        https://twitter.com/tejinder_id/status/1546059706145288193?s=20&t=2ID8tRHiTBRUl6teG4WSZg
+	
+8)      Swapping variables values using Array destructuring
+                https://twitter.com/palashv2/status/1544532842192859136?s=20&t=YRGiiauUimUqxlyEgOOj5g
+
+9)      Swapping array elements using Array destructuring
+                https://twitter.com/palashv2/status/1546486465005240320?s=20&t=GO7bg7Al1Pp48nL4tTxASQ

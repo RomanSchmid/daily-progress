@@ -1,4 +1,0 @@
-1) First acquaintance with SEO (Search Engine Optimization)
-    - is the process of making a website more visible in search results
-    https://developer.mozilla.org/en-US/docs/Glossary/SEO
-

@@ -1,9 +1,0 @@
-1)  JS  Difference between slice() and substring()
-        https://twitter.com/ATechAjay/status/1543788236023087104?s=20&t=mHd7IOvALr-HUeSsW5sLkg
-
-2)  JS  Spread operator | ...array or ...string
-        https://twitter.com/sumitsaurabh927/status/1543791826137645056?s=20&t=mHd7IOvALr-HUeSsW5sLkg
-        https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
-
-3)  CSS Grid
-        https://www.youtube.com/watch?v=0xMQfnTU6oo&ab_channel=TraversyMedia

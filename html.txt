@@ -1,0 +1,16 @@
+1)	<form> submission attribute "method" -  value post vs get
+	https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form
+
+2)	ARIA: region role
+	- attribute "aria-labelledby" (linked to some header) or "aria-label" (no header to link)
+	https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/region_role
+
+3)	SEO (Search Engine Optimization)
+   	- is the process of making a website more visible in search results
+    	https://developer.mozilla.org/en-US/docs/Glossary/SEO
+
+4) 	<figure> for self-contained content with <figcaption>
+   	ttps://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure
+
+5)  	<table>
+        https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table

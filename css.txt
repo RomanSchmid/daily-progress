@@ -1,0 +1,26 @@
+1)	Relative length units - rem vs em
+		https://www.w3schools.com/cssref/css_units.asp
+
+2)	!important
+		https://developer.mozilla.org/en-US/docs/Web/CSS/important
+
+3)	"border-collapse" property
+    	- sets whether cells inside a <table> have shared or separate borders
+		https://developer.mozilla.org/en-US/docs/Web/CSS/border-collapse
+
+4)	":nth-of-type()" pseudo-class
+		- matches elements based on their position among siblings of the same type (tag name)
+		https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-of-type
+
+5)	"last-of-type" pseudo-class 
+		- represents the last element of its type among a group of sibling elements
+		https://developer.mozilla.org/en-US/docs/Web/CSS/:last-of-type
+
+6)	Difference between pseudo-classes and pseudo-elements
+		https://www.growingwiththeweb.com/2012/08/pseudo-classes-vs-pseudo-elements.html
+
+7)	Grid
+        https://www.youtube.com/watch?v=0xMQfnTU6oo&ab_channel=TraversyMedia
+
+8)	"column-count" property
+		https://twitter.com/_georgemoller/status/1546514121125945348?s=20&t=7NNLVX3Cm5LSnbyhXzvZKg
